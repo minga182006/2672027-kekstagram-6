@@ -120,6 +120,17 @@ main {
 /* Блок с фильтрами изображений других пользователей
    ========================================================================== */
 
+.img-data-error {
+  width: 100%;
+  margin: 20px 0;
+  padding: 20px;
+  font-size: 16px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #e74c3c;
+  border-radius: 4px;
+}
+
 .img-filters {
   padding: 20px 0;
 
